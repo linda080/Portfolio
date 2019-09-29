@@ -2,10 +2,13 @@
 @import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
 h1 {
   font-family: 'Chilanka', cursive;
-  color: #650BF0 
+  color: #650BF0;
 }
 p {
   font-style: Underline; 
   font-size: 12px; 
   font-family: 'Handlee', cursive;
+}
+body {
+  background-color: #7FE8F4;
 }
