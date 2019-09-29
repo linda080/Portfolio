@@ -14,7 +14,7 @@ p {
   font-family: 'Handlee', cursive;
 }
 body {
-  background-image: url("https://github.com/linda080/Portfolio/blob/master/Random%20Image%20-%20Gradient%202.jpeg");
+  background-image: url(https://github.com/linda080/Portfolio/blob/master/Random%20Image%20-%20Gradient%202.jpeg);
   backfround-repent: no-repent; 
   backfround-position: center;
   background-size: cover;
