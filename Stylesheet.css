@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
-
+@import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
 h1 {
   font-family: 'Chilanka', cursive;
   color: #650BF0 
@@ -7,4 +7,5 @@ h1 {
 p {
   font-style: Underline; 
   font-size: 12px; 
+  font-family: 'Handlee', cursive;
 }
