@@ -4,6 +4,8 @@
 h1 {
   font-family: 'Chilanka', cursive;
   color: #650BF0;
+  border: 5px outside black; 
+  border-color:
 }
 p {
   font-style: Underline; 
