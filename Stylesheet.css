@@ -4,7 +4,7 @@
 h1 {
   font-family: 'Chilanka', cursive;
   color: #650BF0;
-  border: 10px outside black; 
+  border: 10px outset black; 
   padding: 5px;
   margin: 20px;
 }
@@ -21,5 +21,5 @@ body {
 }
 
 h2 {
-  font-family: 'Patrick Hand', cursive;
+  font-family: 'Patrick Hand', cursive; 
 {
