@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Chilanka&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand&display=swap');
 h1 {
   font-family: 'Chilanka', cursive;
   color: #650BF0;
@@ -12,3 +13,7 @@ p {
 body {
   background-color: #7FE8F4;
 }
+
+h2 {
+  font-family: 'Patrick Hand', cursive;
+{
