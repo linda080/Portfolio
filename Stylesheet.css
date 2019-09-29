@@ -4,7 +4,7 @@
 h1 {
   font-family: 'Chilanka', cursive;
   color: #650BF0;
-  border: 10px outset black; 
+  border: 10px outset Black; 
   padding: 5px;
   margin: 20px;
 }
@@ -15,7 +15,7 @@ p {
 }
 body {
   background-image: url(https://github.com/linda080/Portfolio/blob/master/Random%20Image%20-%20Gradient%202.jpeg);
-  backfround-repent: no-repent; 
+  backfround-repeat: no-repeat; 
   backfround-position: center;
   background-size: cover;
 }
