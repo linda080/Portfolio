@@ -1,5 +1,11 @@
-@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+<style>
+@import url('https://fonts.googleapis.com/css?family=Karla&display=swap');
+</style>
 h1 {
-  font-family: 'Chilanka', cursive; 
   color: #650BF0; 
+}
+
+p {
+  font-family: 'Karla', sans-serif;
+  font-size: 20px; 
 }
