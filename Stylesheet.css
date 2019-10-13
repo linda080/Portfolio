@@ -45,3 +45,10 @@ h2 {
   .navbar a:hover {
     background-color: #5B6067; 
 }
+
+  .navbar a.active {
+    background-color: #FFFFFF;
+      color: Black;
+}
+
+  
