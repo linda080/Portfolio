@@ -22,9 +22,10 @@ body {
 
 h2 {
   font-family: 'Patrick Hand', cursive; 
-{
+}
+
 .hobbyheading {
-  color: #B75AFF
+  color: #B75AFF;
 }
   
 .navbar {
@@ -32,23 +33,23 @@ h2 {
   background-color: #F7FF00;
 }
 
-  .navbar a {
-    float: left;
-    display: block;
-    color: #FF00CD;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
+.navbar a {
+  float:left;
+  display: block;
+  color: #FF00CD;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
   
-  .navbar a:hover {
-    background-color: #5B6067; 
+.navbar a:hover {
+  background-color: #5B6067; 
 }
 
-  .navbar a.active {
-    background-color: #FFFFFF;
-      color: Black;
+.navbar a.active {
+  background-color: #FFFFFF;
+  color: Black;
 }
 
   
