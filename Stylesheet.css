@@ -8,11 +8,13 @@ h1 {
   padding: 5px; 
   margin: 20px;
 }
+
 p {
   font-style: Underline; 
   font-size: 20px; 
   font-family: 'Handlee', cursive;
 }
+
 body {
   background-image: url("https://github.com/linda080/Portfolio/blob/master/Random%20Image%20-%20Gradient%202.jpeg");
   backfround-repeat: no-repeat; 
@@ -51,5 +53,3 @@ h2 {
   background-color: #FFFFFF;
   color: Black;
 }
-
-  
